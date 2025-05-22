@@ -15,20 +15,20 @@ name                     : &name "Zineb El yamani"
 description              : &description "MSc student, researcher, runner, living with MS—turning challenges into purpose."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://zinelya.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Zineb"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "MSc student, researcher, runner, living with MS—turning challenges into purpose."
+  location         : "Canada"
   employer         : "Université de Sherbrooke"
-  uri              : # URL
+  uri              : "https://scil.usherbrooke.ca/"
   email            : "elyz0801@usherbrooke.ca" 
 
   # Academic websites
