@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Zineb"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Université de Sherbrooke"
   uri              : # URL
-  email            : "elyz08012usherbrooke.ca" 
+  email            : "elyz0801@usherbrooke.ca" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
